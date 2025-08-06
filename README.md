@@ -68,6 +68,5 @@ Das Projekt zeigt, dass ich nicht nur technische Kenntnisse habe, sondern auch k
 
 Ich bin offen für neue Herausforderungen und spannende Projekte im Bereich Webdesign und Frontend-Entwicklung:
 
-- 📧 E-Mail: [Deine E-Mail hier]
-- 💼 GitHub: [Dein GitHub-Link]
-- 💬 LinkedIn: [Optional]
+- 📧 E-Mail: Snailaura@proton.me
+- 💼 GitHub: github.com/inka-ink/
