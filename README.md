@@ -68,5 +68,5 @@ Das Projekt zeigt, dass ich nicht nur technische Kenntnisse habe, sondern auch k
 
 Ich bin offen für neue Herausforderungen und spannende Projekte im Bereich Webdesign und Frontend-Entwicklung:
 
-- 📧 E-Mail: Snailaura@proton.me
+- 📧 E-Mail: lobenko31@gmail.com
 - 💼 GitHub: github.com/inka-ink/
